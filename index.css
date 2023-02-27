@@ -56,14 +56,27 @@ header{
     width: 750px;
 }
 
+.ptit{
+    font-size: 4.5rem;
+
+}
 
 
+.txt{
+    font-size: 1.5rem;
+
+}
+
+.img{	
+    height: 350px;
+    width: 350px;
+}
 
 
-
-
-
-
+.aboutme{
+    justify-content: center;
+    text-align: left;
+}
 
 
 
