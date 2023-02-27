@@ -1,0 +1,80 @@
+body{
+    background-color: black;
+   
+    margin: px;
+}
+.navbar{
+    padding-left: 10%;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+header{
+    color: rgb(22, 22, 22);
+}
+
+
+.pad{
+    padding-left: 3rem;
+}
+
+.title{
+    font-size: 100px;
+    display: inline;
+}
+
+.img{
+    width: 100px;
+    height: 100px;
+}
+.aa{
+    display:block;
+    padding-bottom: 559px;
+    text-decoration: none;
+    font-size: 20px;
+
+}
+
+.subtitle{
+    font-size: 30px;
+    margin-bottom: 0px;
+    margin-top: 220px;
+}
+
+.contain{
+    
+}
+
+
+
+.foto{
+    position: absolute;
+    top: 35px;
+    right: 30px;
+    height: 750px;
+    width: 750px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*{
+    color: white;
+    font-family: JetBrainsMono, monospace;
+   
+}
+
